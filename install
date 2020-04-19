@@ -1,0 +1,9 @@
+2020-04-19T00:23:39.105Z Install : node-red-contrib-automation-hat 0.4.0
+
+2020-04-19T00:23:39.237Z npm install --no-audit --no-update-notifier --save --save-prefix="~" --production node-red-contrib-automation-hat@0.4.0
+2020-04-19T00:23:42.857Z [err] npm WARN node-red-project@0.0.1 No repository field.
+2020-04-19T00:23:42.857Z [err] npm WARN node-red-project@0.0.1 No license field.
+2020-04-19T00:23:42.857Z [err] 
+2020-04-19T00:23:42.859Z [out] + node-red-contrib-automation-hat@0.4.0
+2020-04-19T00:23:42.859Z [out] added 1 package from 1 contributor in 1.994s
+2020-04-19T00:23:42.955Z rc=
